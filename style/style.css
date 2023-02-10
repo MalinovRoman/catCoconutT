@@ -6,3 +6,11 @@ body {
   height: 500px;
   background-color: #000;
 }
+
+
+.footer__div {
+  width: 1000px;
+  height: 200px;
+  background-color: red;
+}
+
